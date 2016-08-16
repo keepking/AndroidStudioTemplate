@@ -1,0 +1,2 @@
+# AndroidStudioTemplate
+用于AndroidStudio快速新建工程和文件的模板
